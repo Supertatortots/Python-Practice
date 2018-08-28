@@ -23,6 +23,8 @@ def xo(s):
 
 # Notes:
 # figure out why  o = s.count("o" and "O") doesn't work for counting capital letters as well
+#I am testing stuff!
+#another commit~
 
 
 print (s.count("o" and "O"))
