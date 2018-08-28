@@ -19,6 +19,7 @@ def xo(s):
 #     return s.count('x') == s.count('o')
 
 #I like cute dolls!
+#do this stuff
 
 # Notes:
 # figure out why  o = s.count("o" and "O") doesn't work for counting capital letters as well
