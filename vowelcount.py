@@ -4,7 +4,7 @@
     
 #     return num_vowels
 
-
+print ("Input a string and it will return the number of vowels!")
 inputString = input("")
 
 def check_vowels(inputString):
@@ -12,4 +12,4 @@ def check_vowels(inputString):
   checkedVowels = [each for each in inputString if each in vowels]
   return (len(checkedVowels))
 
-print(check_vowels(inputString))
+print("Number of vowels: {}".format(check_vowels(inputString)))
